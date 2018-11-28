@@ -6,9 +6,6 @@ body {
   padding: 30px 20px;
   text-align: center;
 }
-body{
-  background-color: white
-}
 h1 {
   color: white
   padding: 20px 0px 10px 0px;
@@ -20,9 +17,7 @@ h3 {
   font-size: 50pt
 }
 p {
-  font-size: 25pt;
-  border-style: inset;
-  background-color: lightgrey;
+  font-size: 20pt;
 }
 
 a {
